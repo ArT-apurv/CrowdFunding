@@ -1,0 +1,19 @@
+.Preloader{
+    height: 100vh;
+
+    font-family: sans-serif;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fail-img{
+  
+    height: 20vh
+}
+.refresh-img {
+    margin-left: 0;
+    margin-right: 5px;
+    height: 1rem;
+  }
+  
